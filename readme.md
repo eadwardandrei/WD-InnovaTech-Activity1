@@ -153,5 +153,4 @@ WD-ProjectName
 |-|-|-|
 | Google | Picture, Logos, images | Google.com |
 | Pinterest | Picture, Logos, images | pinterest.com |
-| Bootstrap | stylesheet | [Google.com](https://getbootstrap.com) |
-| Deployment Link | Published site link | [Google.com]() |
+| Deployment Link | Published site link | [Google.com](https://eadwardandrei.github.io/WD-InnovaTech-Activity1/) |

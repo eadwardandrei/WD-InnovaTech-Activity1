@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/KaynUZI/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/Front page logo.png" alt="Logo" width="130" height="130">
+    <img src="/assets/img/logo_w_text.png" alt="Logo" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 4</h3>
@@ -60,45 +60,51 @@ This project showcases distinct design layouts for different features using pure
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-  
-The project is a Feature Display Website. It showcases distinct design layouts for different features using pure HTML and CSS. The website includes various sections such as a header, main content area, navigation menu, feature displays, and a footer.
 
-- Whats the purpose
-  
-The purpose of the project is to demonstrate the application of HTML and CSS in creating visually appealing and functional web pages. It aims to highlight different design features, present information clearly, and provide an interactive user experience. Additionally, it serves as a learning tool to understand the principles of web design and front-end development.
+What is the project?
+The project is a website for TechVerse Innovations, a company specializing in cutting-edge technological solutions, such as AI, Blockchain, and IoT. The website serves as a digital platform to showcase the company's services, provide valuable information, and facilitate customer interaction.
 
-- What are key components
-  
-Header: Contains the website title and navigation menu with links to different sections.
+What’s the purpose?
+The purpose of the project is to demonstrate the application of HTML and CSS in creating visually appealing and functional web pages. It aims to highlight different design features, present information clearly, and provide an interactive user experience. Additionally, it serves as a learning tool to understand the principles of web design and front-end development, helping to improve practical skills in building responsive, modern websites.
 
-Main Content Area: Provides a welcoming message and an overview of the project’s purpose.
+What are key components?
+Header: Contains the website title, navigation menu, and logo, offering easy access to all sections.
 
-Navigation Menu: Offers links to different feature pages.
+Main Content Area: Includes the hero section with a welcome message and company tagline, along with information about services and key offerings.
 
-Feature Displays: Sections that showcase various products or features with images and descriptions.
+Navigation Menu: A responsive menu with links to different pages like Home, Services, About Us, Contact Us, and Sign Up.
 
-Footer: Provides additional information and links, such as copyright information.
+Feature Displays: Various sections that present key services, such as AI Solutions, Blockchain Consulting, IoT Services, and more, with descriptions and call-to-action buttons.
 
-CSS Styling: Includes styling rules to control the layout, color scheme, typography, and responsiveness of the website.
+Footer: Contains additional information, such as copyright details, contact information, and social media links.
 
-- What technology used and how it is used
-  
-HTML: Used to structure the content of the web pages. It defines the layout and elements such as headers, paragraphs, images, and links.
+CSS Styling: Controls the visual presentation, including layout, typography, color scheme, and responsiveness.
 
-CSS: Applied to style the HTML content. It controls the visual presentation, including colors, fonts, spacing, and positioning of elements. Specific CSS rules are used to set background images, adjust logo sizes, and style different sections of the page.
+Interactive Elements: Includes buttons for opening forms, dynamic content (e.g., popups), and smooth page transitions for a better user experience.
 
-Bootstrap: Integrated to provide a responsive grid system and pre-styled components, making it easier to create a consistent and adaptable layout.
+What technology used and how it is used?
 
-JavaScript (if applicable): Could be used to add interactivity, such as handling events (e.g., clicking buttons to show/hide content), and enhancing the user experience.
-External Resources: Links to external resources such as Google Fonts for typography and Bootstrap CDN for responsive design.
+HTML: Used to structure the content of the web pages. It defines elements like headers, paragraphs, images, links, forms, and buttons to organize and present information effectively.
 
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+CSS: Applied to style the HTML content. It controls the visual presentation—background colors, fonts, text alignment, element positioning, borders, etc. For example, it is used to define the hero section's background, the color of buttons, and the layout of service sections.
+
+Bootstrap: Integrated to provide a responsive grid system and pre-styled components. This makes it easier to create a consistent layout that adapts to different screen sizes (e.g., mobile, tablet, desktop).
+
+JavaScript (if applicable): JavaScript is used for interactivity on the site. For instance, it can handle events like opening or closing service form popups when buttons are clicked. It also can be used to add dynamic behavior such as form validation or smooth scrolling animations.
+
+External Resources: Links to external resources like Google Fonts for typography (Lexend, Press Start 2P) and the Bootstrap CDN to simplify layout management and responsiveness.
+
+Key Components
+
+Multi-Page Website: The website consists of multiple pages, including a home page, service descriptions, an about us section, a contact page, and a sign-up page.
+
+Parallax Transition: Using smooth scrolling and background transitions to create a more dynamic and engaging visual experience as users interact with the page.
+
+Interactive Forms: Including forms for contacting the company, signing up, and service requests, designed to enhance user engagement and facilitate customer interactions.
+
+Responsive Design: Ensures the website adapts to various screen sizes (from mobile to desktop) using media queries, grid layouts, and flexible components provided by Bootstrap.
+
+Stylish UI Elements: Buttons, navigation links, and sections designed with visual consistency and ease of use in mind, contributing to an intuitive user interface.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -148,4 +154,4 @@ WD-ProjectName
 | Google | Picture, Logos, images | Google.com |
 | Pinterest | Picture, Logos, images | pinterest.com |
 | Bootstrap | stylesheet | [Google.com](https://getbootstrap.com) |
-| Deployment Link | Published site link | [Google.com](https://kaynuzi.github.io/WD-Seatwork-4/index.html) |
+| Deployment Link | Published site link | [Google.com]() |
